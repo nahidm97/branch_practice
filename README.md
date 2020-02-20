@@ -10,7 +10,5 @@ These are a few of my favorite things:
 - Warm woolen mittens
 - Not editing directly on GitHub
 - Eat good food
-=======
 - Coffee, I love Coffee
 - I like running
->>>>>>> experiment
