@@ -8,8 +8,8 @@ These are a few of my favorite things:
 - Bright copper kettles
 - Warm woolen mittens
 - Not editing directly on GitHub
-<<<<<<< HEAD
-- Coffee, I love Coffee
-=======
 - Eat good food
+=======
+- Coffee, I love Coffee
+- I like running
 >>>>>>> experiment
